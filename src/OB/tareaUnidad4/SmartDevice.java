@@ -1,3 +1,5 @@
+package OB.tareaUnidad4;
+
 public class SmartDevice {
 
     // definimos los atributos del General SmartDevices:

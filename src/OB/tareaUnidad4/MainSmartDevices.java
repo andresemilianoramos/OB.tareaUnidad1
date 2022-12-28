@@ -1,4 +1,4 @@
-import java.sql.SQLOutput;
+package OB.tareaUnidad4;
 
 public class MainSmartDevices {
 
@@ -18,3 +18,4 @@ public class MainSmartDevices {
     }
 
 }
+

@@ -1,3 +1,5 @@
+package OB.tareaUnidad4;
+
 public class SmartPhone extends SmartDevice{
     String material;
 

@@ -1,3 +1,5 @@
+package OB.tareaUnidad4;
+
 public class SmartWatch extends SmartDevice{
 
     String correa;
@@ -21,3 +23,4 @@ public class SmartWatch extends SmartDevice{
                 "} " + super.toString();
     }
 }
+

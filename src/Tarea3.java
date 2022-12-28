@@ -3,8 +3,8 @@ public class Tarea3 {
 
         String[] textos = {" El"," dia"," esta"," muy bonito."};
 
-        for (int i = 0; i < textos.length; i++) {
-            System.out.print(textos[i]);
+        for (String texto : textos) {
+            System.out.print(texto);
         }
     }
 }
